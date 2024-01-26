@@ -1,0 +1,42 @@
+#input,
+#label {
+  height: 25px;
+  width: 250px;
+  border-radius: 7px;
+  background-color: white;
+  color: black;
+}
+#label {
+  height: 25px;
+  width: 250px;
+  background-color: white;
+  color: black;
+  border: none;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+}
+#small {
+  height: 25px;
+  width: 45px;
+  border-radius: 10px;
+  margin: 30px;
+  background-color: white;
+  color: black;
+}
+#h1 {
+  color: black;
+}
+#label {
+  border: none;
+}
+.btn{
+  margin:0;
+  padding: 4px;
+}
