@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:rgb(91, 12, 12);
+}
+.btn{
+  display: flex;
+  flex-direction: row;
+  gap:30px;
+
+}
+#lb1{
+  height: 60px;
+  width: 300px;
+}
+#lb2{
+  width: 70px;
+}
+#tab{
+  margin: 30px;
+}
+#list{
+  display: flex;
+  flex-direction:row;
+justify-content: space-around;
+align-items: center;
+margin:40px;
+padding: 10px;
+}
